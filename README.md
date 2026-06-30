@@ -1,3 +1,8 @@
+> [!IMPORTANT]
+> This repository has been archived and is no longer maintained.
+> The code is provided for historical reference and may contain unpatched or unknown vulnerabilities.
+> It should not be used in production systems.
+
 # IdPP - Identification Probability and Precision
 Code repository for work on characterizing the relationship between identification probability and precision in reference-free metabolomics. 
 
